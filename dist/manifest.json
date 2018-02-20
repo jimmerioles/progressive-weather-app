@@ -1,0 +1,22 @@
+{
+  "name": "Progressive Weather App",
+  "description": "Progressive Weather App: a local weather Progressive Web App, built with VueJS.",
+  "short_name": "PWeatherApp",
+  "icons": [
+    {
+      "src": "/img/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#6CB9C8",
+  "theme_color": "#6CB9C8"
+}
+

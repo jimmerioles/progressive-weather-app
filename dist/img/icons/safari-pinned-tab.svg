@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="safari-pinned-tab.svg"
+   inkscape:version="0.92.1 r15371"
+   inkscape:export-filename="/home/jimmerioles/Projects/freecodecamp/local-weather-pwa/public/img/icons/apple-touch-icon.png"
+   inkscape:export-xdpi="360"
+   inkscape:export-ydpi="360">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="14.729167"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:document-units="px"
+     inkscape:current-layer="g22"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="false"
+     borderlayer="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="900"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     showborder="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4485"
+       empspacing="1"
+       originx="0" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-284.30001)">
+    <g
+       id="g22"
+       transform="matrix(0.8727273,0,0,1,3.0545448,0)">
+      <path
+         id="path7447"
+         d="M 24,0 17,3.6523438 V 6 9.7050781 11.732422 17.888672 20 28 30.111328 L 15,29 V 19 12.800781 L 9,16 v 16 l 14,7.466797 V 34 33.445312 31.427734 16.572266 14.554688 8.5332031 6.5292969 L 24,6 41,15 v 18 l -8,4.234375 v 6.070313 L 47,36 V 12 Z"
+         style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.25952959;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         transform="translate(0,284.30001)" />
+      <path
+         id="path5931"
+         d="M 15,4.6953125 1,12 v 24 l 23,12 7,-3.652344 V 42 38.294922 36.267578 30.111328 28 20 17.888672 L 33,19 v 10 6.199219 L 39,32 V 16 L 25,8.5332031 V 14 v 0.554688 2.017578 14.855468 2.017578 6.021485 2.003906 L 24,42 7,33 V 15 l 8,-4.234375 z"
+         style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.25952959;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         transform="translate(0,284.30001)" />
+    </g>
+  </g>
+</svg>
