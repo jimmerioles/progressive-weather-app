@@ -1,4 +1,6 @@
-# [Progressive Weather App]()
+![fooo](https://user-images.githubusercontent.com/9766310/36504143-7796099e-178a-11e8-90df-5a1ed43a65b3.png)
+
+# [Progressive Weather App](https://jimmerioles.github.io/progressive-weather-app/)
 A local weather app that fetches weather forecast from Openweathermap.org. A Progressive Web App and built with Vue.js.
 
 ## Features
@@ -40,6 +42,6 @@ Let's find Satoshi Nakamoto! | or let's have a :coffee:
 [ico-ethereum]: https://img.shields.io/badge/Ethereum-0x7896E9C4118e495Eb7001a847BBFA3C29Dfc69d9-blue.svg?style=flat-square
 
 [link-author]: https://twitter.com/jimmerioles
-[link-changelog]: https://github.com/jimmerioles/random-stoic-quotes/releases
-[link-issue]: https://github.com/jimmerioles/random-stoic-quotes/issues/new
-[link-pull-request]: https://github.com/jimmerioles/random-stoic-quotes/pull/new/master
+[link-changelog]: https://github.com/jimmerioles/progressive-weather-app/releases
+[link-issue]: https://github.com/jimmerioles/progressive-weather-app/issues/new
+[link-pull-request]: https://github.com/jimmerioles/progressive-weather-app/pull/new/master
