@@ -1,6 +1,6 @@
 {
   "name": "Progressive Weather App",
-  "description": "Progressive Weather App: a local weather Progressive Web App, built with VueJS.",
+  "description": "Progressive Weather App: a local weather app, built with VueJS and .",
   "short_name": "PWeatherApp",
   "icons": [
     {
