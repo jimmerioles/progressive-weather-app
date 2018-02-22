@@ -12,7 +12,7 @@
  */
 
 importScripts(
-  "/progressive-weather-app/precache-manifest.61c14890dd5b0b28b8ecb42716253c2b.js",
+  "/progressive-weather-app/precache-manifest.f16e260d5ce73a6cee5e4804b425ace6.js",
   "https://storage.googleapis.com/workbox-cdn/releases/3.0.0-beta.0/workbox-sw.js"
 );
 
