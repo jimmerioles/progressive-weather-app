@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/progressive-weather-app/img/site-image-lg.jpg"
   },
   {
-    "revision": "04519d2bcd6f1d65638ee4dbc964bc5a",
+    "revision": "847d71ce4ef3b136a5d99d2b6c3b2b52",
     "url": "/progressive-weather-app/index.html"
   },
   {
