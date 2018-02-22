@@ -10,6 +10,7 @@ A local weather app that fetches weather forecast from Openweathermap.org. A Pro
 * Different theme depending on time (day or night)
 * Different weather icon depending on weather
 * Click to toggle temperature scale (Celcius or Fahrenheit)
+* Lighthouse score average: 95/100
 
 ## Built With
 * Vue.js
