@@ -12,28 +12,32 @@ self.__precacheManifest = [
     "url": "/progressive-weather-app/img/cloud.775ad4d1.svg"
   },
   {
-    "revision": "a7d344a6946ead5ed89466533de9b48c",
+    "revision": "ed5e368f0f9f950ec5e66e08205936f3",
+    "url": "/progressive-weather-app/img/site-image-lg.jpg"
+  },
+  {
+    "revision": "e104522973f8a9b6838c0911c105ecc3",
     "url": "/progressive-weather-app/index.html"
   },
   {
-    "revision": "089cd8beba94851ed228",
-    "url": "/progressive-weather-app/js/manifest.089cd8be.js"
-  },
-  {
-    "revision": "ab0006cec11183f84b03",
-    "url": "/progressive-weather-app/js/app.ab0006ce.js"
-  },
-  {
-    "revision": "05f5c4cf26ff3e58bdd441ed54d3604b",
-    "url": "/progressive-weather-app/img/wind.05f5c4cf.svg"
+    "revision": "0bb8cb16f4420944c265dfc314c09bb8",
+    "url": "/progressive-weather-app/img/snow.0bb8cb16.svg"
   },
   {
     "revision": "7e644c1a17230752ab109b8b5ebc6c02",
     "url": "/progressive-weather-app/img/thunderstorm.7e644c1a.svg"
   },
   {
-    "revision": "0bb8cb16f4420944c265dfc314c09bb8",
-    "url": "/progressive-weather-app/img/snow.0bb8cb16.svg"
+    "revision": "05f5c4cf26ff3e58bdd441ed54d3604b",
+    "url": "/progressive-weather-app/img/wind.05f5c4cf.svg"
+  },
+  {
+    "revision": "ab0006cec11183f84b03",
+    "url": "/progressive-weather-app/js/app.ab0006ce.js"
+  },
+  {
+    "revision": "089cd8beba94851ed228",
+    "url": "/progressive-weather-app/js/manifest.089cd8be.js"
   },
   {
     "revision": "a56a791585c9caa047aff2b838dfd086",
