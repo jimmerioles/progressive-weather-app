@@ -1,7 +1,7 @@
 ![fooo](https://user-images.githubusercontent.com/9766310/36504143-7796099e-178a-11e8-90df-5a1ed43a65b3.png)
 
 # [Progressive Weather App](https://jimmerioles.github.io/progressive-weather-app/)
-A local weather app that fetches weather forecast from Openweathermap.org. A Progressive Web App, built with Vue.js.
+A local weather app that fetches weather forecast from Openweathermap.org. A Progressive Web App built with Vue.js.
 
 ## Features
 * Progressive Web App
