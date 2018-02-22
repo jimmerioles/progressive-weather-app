@@ -71,6 +71,8 @@ main {
     main {
         width: 330px;
         height: 600px;
+
+        border-radius: 5px;
     }
 }
 </style>
