@@ -41,7 +41,7 @@ export default {
 
 <style>
 /** Global **/
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+/*@import url('https://fonts.googleapis.com/css?family=Open+Sans');*/
 
 * {
   box-sizing: border-box;
@@ -50,7 +50,8 @@ export default {
 }
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  /*font-family: 'Open Sans', sans-serif;*/
+   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: rgba(255, 255, 255, 0.9);
