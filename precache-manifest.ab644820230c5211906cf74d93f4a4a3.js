@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/progressive-weather-app/img/site-image-lg.jpg"
   },
   {
-    "revision": "9b11bae072e886c149123e52d9cf1c75",
+    "revision": "e823e5ef561d88e4ddb6c6f9992f527c",
     "url": "/progressive-weather-app/index.html"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/progressive-weather-app/img/wind.05f5c4cf.svg"
   },
   {
-    "revision": "76b43923fe2a52135598",
-    "url": "/progressive-weather-app/js/app.76b43923.js"
+    "revision": "bb6e5a55a2aca44f5cb3",
+    "url": "/progressive-weather-app/js/app.bb6e5a55.js"
   },
   {
     "revision": "089cd8beba94851ed228",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/progressive-weather-app/img/cloud.2b02f907.svg"
   },
   {
-    "revision": "76b43923fe2a52135598",
+    "revision": "bb6e5a55a2aca44f5cb3",
     "url": "/progressive-weather-app/css/app.352cd013.css"
   }
 ];
