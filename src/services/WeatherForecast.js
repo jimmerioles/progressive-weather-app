@@ -36,7 +36,13 @@ class WeatherForecast {
     * @param {Object} position - Lat & lon coordinates object.
     */
     async updateForecast(position) {
-        let data = await this.getForecast(position.coords);
+        let data = null;
+
+        try {
+            data = await this.getForecast(position.coords);
+        } catch (e) {
+            data = this.getErrorData();
+        }
 
         this.populate(data);
     }
@@ -46,13 +52,39 @@ class WeatherForecast {
     *
     * @param {Object} coordinates - Lat & lon coordinates object.
     */
-    getForecast(coordinates) {
+    async getForecast(coordinates) {
         let appId = 'a3e7bdc246b811691b06aab13ccb0dbb';
         let endpoint = `https://api.openweathermap.org/data/2.5/weather?lat=${coordinates.latitude}&lon=${coordinates.longitude}&appid=${appId}&units=metric`;
 
-        return fetch(endpoint)
-                .then(response => response.json())
-                .catch(error => console.log(error));
+        let response = await fetch(endpoint);
+
+        return await response.json();
+    }
+
+    /*
+    * Error data for end-users.
+    */
+    getErrorData() {
+        return {
+                clouds: { all: 0 },
+                wind: { speed: 0 },
+                main: {
+                    humidity: 0,
+                    temp: 0,
+                    temp_max: 0,
+                    temp_min: 0,
+                },
+                weather: [
+                    {
+                        id: 0,
+                        description: 'Problem at the weather forecast server ¯\\_(ツ)_/¯'
+                    }
+                ],
+                name: null,
+                sys: {
+                    country: null
+                }
+            };
     }
 
     /*
@@ -79,6 +111,10 @@ class WeatherForecast {
     * @param {String} country - Current country.
     */
     formatLocation(city, country) {
+        if (city === null && country === null) {
+            return '';
+        }
+
         return `${city}, ${country}`;
     }
 
