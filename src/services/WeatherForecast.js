@@ -27,7 +27,9 @@ class WeatherForecast {
     * Update forecast with fresh data from current location.
     */
     update() {
-        navigator.geolocation.getCurrentPosition(position => this.updateForecast(position));
+        if (navigator.onLine) {
+            navigator.geolocation.getCurrentPosition(position => this.updateForecast(position));
+        }
     }
 
     /*
@@ -77,7 +79,7 @@ class WeatherForecast {
                 weather: [
                     {
                         id: 0,
-                        description: 'Problem at the weather forecast server ¯\\_(ツ)_/¯'
+                        description: `There's a problem at the weather forecast server ¯\\_(ツ)_/¯`
                     }
                 ],
                 name: null,
