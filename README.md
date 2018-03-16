@@ -6,7 +6,7 @@ A local weather app that fetches weather forecast from Openweathermap.org. A Pro
 ## Features
 * Progressive Web App
 * Lighthouse score average: 95/100
-* Offline mode
+* Works offline
 * Add to homescreen (mobile)
 * Different theme depending on time (day or night)
 * Different weather icon depending on weather
